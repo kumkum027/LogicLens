@@ -1,101 +1,158 @@
-# ◈ LogicLens
 
-### See the logic. Solve the pattern.
+<div align="center">
 
-A dedicated space for Data Structures & Algorithms, problem-solving, and optimized C++ solutions.
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0e2a47,100:1d6fa5&height=260&section=header&text=LogicLens&fontSize=78&fontColor=E6EDF3&fontAlignY=42&desc=See%20the%20logic.%20Solve%20the%20pattern.&descSize=22&descColor=7DD3FC&descAlignY=66&animation=fadeIn" alt="LogicLens" width="100%" />
 
-**LogicLens** is my DSA practice repository where I document coding problems, explore algorithmic patterns, and build a strong foundation in problem-solving for software engineering interviews.
+  <br/>
 
----
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&height=50&lines=Patterns+over+memorization.;Every+solution+ships+with+its+complexity.;Brute+force+%E2%86%92+insight+%E2%86%92+optimal.;DSA+in+C%2B%2B%2C+one+problem+at+a+time." alt="Typing Animation" />
 
-## ✨ About the Repository
+  <br/><br/>
 
-This repository brings together my solutions to Data Structures and Algorithms problems, primarily solved on LeetCode using C++.
+  <img src="https://img.shields.io/badge/LANGUAGE-C%2B%2B-38BDF8?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0d1117" alt="C++" />
+  <img src="https://img.shields.io/badge/PLATFORM-LeetCode-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/FOCUS-DSA-A78BFA?style=for-the-badge&labelColor=0d1117" alt="DSA" />
+  <img src="https://img.shields.io/badge/GOAL-Placements-34D399?style=for-the-badge&labelColor=0d1117" alt="Goal" />
+  <img src="https://img.shields.io/badge/SYNC-LeetCode%20%E2%86%92%20GitHub-EC4899?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="LeetCode to GitHub sync" />
 
-The focus is not just on solving problems, but on understanding the logic, identifying patterns, and finding efficient approaches.
+</div>
 
-**What this repository focuses on:**
-- Building strong problem-solving fundamentals.
-- Understanding common DSA patterns.
-- Writing clean and efficient C++ solutions.
-- Analyzing time and space complexity.
-- Practicing problems relevant to technical interviews.
+## ◈ 01 — The Concept
 
-## 🧠 Topics Covered
+**LogicLens** is a space dedicated to the art of algorithmic thinking.
 
-| Category | Topics |
-|---|---|
-| Arrays | Traversal, Prefix Sum, Matrix Problems |
-| Searching | Linear Search, Binary Search |
-| Sorting | Bubble, Selection, Insertion, Merge, Quick Sort |
-| Hashing | Maps, Sets, Frequency Counting |
-| Strings | String Manipulation, Pattern Matching |
-| Recursion | Recursion, Backtracking |
-| Linked Lists | Singly and Doubly Linked Lists |
-| Stacks & Queues | Stack, Queue, Circular Queue |
-| Trees | Binary Trees, BST |
-| Graphs | BFS, DFS, Graph Algorithms |
-| Dynamic Programming | Memoization, Tabulation |
-| Greedy | Greedy Algorithms |
-| Other Patterns | Two Pointers, Sliding Window, Bit Manipulation |
+Built around Data Structures and Algorithms, this repository focuses on understanding problems, recognizing patterns, and developing efficient solutions using **C++**.
 
-## 💻 Technology & Tools
+The philosophy is simple: don't just solve a problem — understand why the solution works.
 
-- **Language:** C++
-- **Platform:** LeetCode
-- **Version Control:** Git & GitHub
-- **Solution Sync:** LeetHub
+Whether it's choosing the right data structure, breaking down a complex problem, or optimizing an algorithm, every concept contributes to becoming a better problem solver.
 
-## 📂 Repository Structure
+## ◈ 02 — The Core
 
-Problems are organized into individual folders using their LeetCode problem number and name, making solutions easy to navigate and maintain.
+<div align="center">
 
-Each solution is stored separately for better organization.
+| 🧠 THINK | ⚡ OPTIMIZE | 🎯 MASTER |
+|:---:|:---:|:---:|
+| Develop logical reasoning | Focus on time and space complexity | Build strong algorithmic foundations |
+| Understand problem patterns | Choose efficient approaches | Strengthen problem-solving skills |
 
-## 📊 Problem Solving Progress
+</div>
 
-My repository is continuously evolving as I solve more problems and explore new concepts.
+## ◈ 03 — The Knowledge Map
 
-| Metric | Current Progress |
-|---|---:|
-| Problems Solved | 1 |
-| Easy | 1 |
-| Medium | 0 |
-| Hard | 0 |
+A broad exploration of the concepts that shape algorithmic problem-solving.
 
-## ⭐ Featured Solution
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**217. Contains Duplicate**
+### ◉ Data Structures
 
-- Platform: LeetCode
-- Difficulty: Easy
-- Approach: Hashing using `unordered_set`
-- Time Complexity: O(n) average
-- Space Complexity: O(n)
+- Arrays & Strings
+- Linked Lists
+- Stacks & Queues
+- Trees & Binary Search Trees
+- Heaps & Priority Queues
+- Hash Maps & Sets
+- Graphs
+- Tries
 
-[View Problem on LeetCode](https://leetcode.com/problems/contains-duplicate/)
+</td>
+<td width="50%" valign="top">
 
-## 🎯 Objectives
+### ◉ Algorithms
 
-- Strengthen DSA fundamentals.
-- Develop logical and analytical thinking.
-- Recognize and apply problem-solving patterns.
-- Improve code efficiency and optimization.
-- Prepare for software engineering placement interviews.
-- Maintain consistency in coding practice.
+- Sorting & Searching
+- Binary Search
+- Recursion & Backtracking
+- Two Pointers
+- Sliding Window
+- Greedy Algorithms
+- Dynamic Programming
+- Graph Algorithms
+- Bit Manipulation
 
-## 🔄 My Approach
+</td>
+</tr>
+</table>
 
-Understand the problem → Analyze examples → Identify the pattern → Implement the solution → Optimize → Analyze complexity.
+## ◈ 04 — Technology Stack
 
-Every problem is an opportunity to improve the way I think and write code.
+<div align="center">
+
+| Technology | Role |
+|:---|:---|
+| **C++** | Primary programming language |
+| **STL** | Standard data structures and algorithms |
+| **LeetCode** | Problem-solving practice |
+| **Git** | Version control |
+| **GitHub** | Code hosting and repository management |
+| **LeetHub** | LeetCode-to-GitHub integration |
+
+</div>
+
+## ◈ 05 — The Problem-Solving Process
+
+<div align="center">
+
+**01. UNDERSTAND**
+
+↓ 
+
+**02. ANALYZE**
+
+↓
+
+**03. IDENTIFY THE PATTERN**
+
+↓
+
+**04. IMPLEMENT**
+
+↓
+
+**05. OPTIMIZE**
+
+↓
+
+**06. EVALUATE COMPLEXITY**
+
+</div>
+
+Each stage is an important part of developing solutions that are not only correct but also efficient and maintainable.
+
+## ◈ 06 — Repository Philosophy
+
+LogicLens follows a problem-oriented approach to keep solutions organized, readable, and easy to navigate.
+
+The emphasis is on:
+
+- Clean and understandable implementations.
+- Appropriate data structure selection.
+- Logical and optimized approaches.
+- Time and space complexity analysis.
+- Learning reusable problem-solving patterns.
+
+## ◈ 07 — The Vision
+
+The goal of LogicLens is to build a strong foundation in computer science fundamentals and algorithmic problem-solving.
+
+It is an evolving learning space built around curiosity, consistency, and the ability to approach unfamiliar problems with confidence.
+
+**Because great developers don't just write code. They think, analyze, and engineer solutions.**
 
 ---
 
 <div align="center">
 
-**One problem at a time. One pattern at a time.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7490,50:312E81,100:09090B&height=120&section=footer" width="100%" alt="Footer"/>
 
-*Built with logic. Driven by consistency.*
+### ◈ LOGICLENS
+
+**SEE THE LOGIC. SOLVE THE PATTERN.**
+
+[![GitHub](https://img.shields.io/badge/Created%20by-Kumkum%20Kumari-181717?style=for-the-badge&logo=github)](https://github.com/kumkum027)
+
+*One problem. Multiple approaches. Better thinking.*
 
 </div>
