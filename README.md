@@ -19,13 +19,11 @@
 
 ## ◈ 01 — The Concept
 
-**LogicLens** is a space dedicated to the art of algorithmic thinking.
+LogicLens is my personal space for learning, practicing, and mastering Data Structures and Algorithms using C++.
 
-Built around Data Structures and Algorithms, this repository focuses on understanding problems, recognizing patterns, and developing efficient solutions using **C++**.
+This repository focuses on understanding the logic behind every problem rather than memorizing solutions. It documents my problem-solving journey, explores different approaches, and emphasizes writing efficient and optimized code.
 
-The philosophy is simple: don't just solve a problem — understand why the solution works.
-
-Whether it's choosing the right data structure, breaking down a complex problem, or optimizing an algorithm, every concept contributes to becoming a better problem solver.
+**The idea is simple:** Don't just solve the problem. Understand the pattern behind it.
 
 ## ◈ 02 — The Core
 
