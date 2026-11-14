@@ -161,8 +161,29 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0134-gas-station](https://github.com/kumkum027/LogicLens/tree/main/0134-gas-station/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/kumkum027/LogicLens/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0134-gas-station](https://github.com/kumkum027/LogicLens/tree/main/0134-gas-station/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/kumkum027/LogicLens/tree/main/0239-sliding-window-maximum/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/kumkum027/LogicLens/tree/main/0239-sliding-window-maximum/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/kumkum027/LogicLens/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/kumkum027/LogicLens/tree/main/0239-sliding-window-maximum/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/kumkum027/LogicLens/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
