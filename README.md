@@ -162,6 +162,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kumkum027/LogicLens/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/kumkum027/LogicLens/tree/main/0027-remove-element/) | Easy |
+| [0088-merge-sorted-array](https://github.com/kumkum027/LogicLens/tree/main/0088-merge-sorted-array/) | Easy |
 | [0134-gas-station](https://github.com/kumkum027/LogicLens/tree/main/0134-gas-station/) | Medium |
 | [0189-rotate-array](https://github.com/kumkum027/LogicLens/tree/main/0189-rotate-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/kumkum027/LogicLens/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -211,6 +212,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kumkum027/LogicLens/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/kumkum027/LogicLens/tree/main/0027-remove-element/) | Easy |
+| [0088-merge-sorted-array](https://github.com/kumkum027/LogicLens/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/kumkum027/LogicLens/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/kumkum027/LogicLens/tree/main/0344-reverse-string/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/kumkum027/LogicLens/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -225,5 +227,6 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/kumkum027/LogicLens/tree/main/0088-merge-sorted-array/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/kumkum027/LogicLens/tree/main/0905-sort-array-by-parity/) | Easy |
 <!---LeetCode Topics End-->
