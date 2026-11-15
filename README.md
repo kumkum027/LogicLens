@@ -163,6 +163,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kumkum027/LogicLens/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/kumkum027/LogicLens/tree/main/0027-remove-element/) | Easy |
 | [0134-gas-station](https://github.com/kumkum027/LogicLens/tree/main/0134-gas-station/) | Medium |
+| [0189-rotate-array](https://github.com/kumkum027/LogicLens/tree/main/0189-rotate-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/kumkum027/LogicLens/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kumkum027/LogicLens/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/kumkum027/LogicLens/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -209,9 +210,14 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kumkum027/LogicLens/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/kumkum027/LogicLens/tree/main/0027-remove-element/) | Easy |
+| [0189-rotate-array](https://github.com/kumkum027/LogicLens/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/kumkum027/LogicLens/tree/main/0344-reverse-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/kumkum027/LogicLens/tree/main/0344-reverse-string/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0189-rotate-array](https://github.com/kumkum027/LogicLens/tree/main/0189-rotate-array/) | Medium |
 <!---LeetCode Topics End-->
