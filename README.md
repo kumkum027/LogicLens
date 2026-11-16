@@ -160,6 +160,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/kumkum027/LogicLens/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kumkum027/LogicLens/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/kumkum027/LogicLens/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/kumkum027/LogicLens/tree/main/0075-sort-colors/) | Medium |
@@ -247,6 +248,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/kumkum027/LogicLens/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/kumkum027/LogicLens/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/kumkum027/LogicLens/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
