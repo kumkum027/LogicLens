@@ -170,6 +170,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0217-contains-duplicate](https://github.com/kumkum027/LogicLens/tree/main/0217-contains-duplicate/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/kumkum027/LogicLens/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/kumkum027/LogicLens/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kumkum027/LogicLens/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/kumkum027/LogicLens/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kumkum027/LogicLens/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/kumkum027/LogicLens/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -221,6 +222,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0189-rotate-array](https://github.com/kumkum027/LogicLens/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/kumkum027/LogicLens/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/kumkum027/LogicLens/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kumkum027/LogicLens/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/kumkum027/LogicLens/tree/main/0905-sort-array-by-parity/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -239,6 +241,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0217-contains-duplicate](https://github.com/kumkum027/LogicLens/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/kumkum027/LogicLens/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/kumkum027/LogicLens/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kumkum027/LogicLens/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/kumkum027/LogicLens/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -255,8 +258,10 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0217-contains-duplicate](https://github.com/kumkum027/LogicLens/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/kumkum027/LogicLens/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/kumkum027/LogicLens/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kumkum027/LogicLens/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/kumkum027/LogicLens/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kumkum027/LogicLens/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 <!---LeetCode Topics End-->
