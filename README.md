@@ -220,6 +220,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0075-sort-colors](https://github.com/kumkum027/LogicLens/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kumkum027/LogicLens/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/kumkum027/LogicLens/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/kumkum027/LogicLens/tree/main/0202-happy-number/) | Easy |
 | [0344-reverse-string](https://github.com/kumkum027/LogicLens/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/kumkum027/LogicLens/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumkum027/LogicLens/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -233,6 +234,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/kumkum027/LogicLens/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/kumkum027/LogicLens/tree/main/0202-happy-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -255,6 +257,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kumkum027/LogicLens/tree/main/0001-two-sum/) | Easy |
+| [0202-happy-number](https://github.com/kumkum027/LogicLens/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/kumkum027/LogicLens/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/kumkum027/LogicLens/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/kumkum027/LogicLens/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -264,4 +267,8 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/kumkum027/LogicLens/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumkum027/LogicLens/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/kumkum027/LogicLens/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
