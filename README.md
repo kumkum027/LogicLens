@@ -231,6 +231,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | ------- | ------- |
 | [0205-isomorphic-strings](https://github.com/kumkum027/LogicLens/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/kumkum027/LogicLens/tree/main/0242-valid-anagram/) | Easy |
+| [0290-word-pattern](https://github.com/kumkum027/LogicLens/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/kumkum027/LogicLens/tree/main/0344-reverse-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -264,6 +265,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0205-isomorphic-strings](https://github.com/kumkum027/LogicLens/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/kumkum027/LogicLens/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/kumkum027/LogicLens/tree/main/0242-valid-anagram/) | Easy |
+| [0290-word-pattern](https://github.com/kumkum027/LogicLens/tree/main/0290-word-pattern/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/kumkum027/LogicLens/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumkum027/LogicLens/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Binary Search
