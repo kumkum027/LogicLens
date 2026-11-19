@@ -229,6 +229,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0205-isomorphic-strings](https://github.com/kumkum027/LogicLens/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/kumkum027/LogicLens/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/kumkum027/LogicLens/tree/main/0344-reverse-string/) | Easy |
 ## Math
@@ -260,6 +261,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0001-two-sum](https://github.com/kumkum027/LogicLens/tree/main/0001-two-sum/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/kumkum027/LogicLens/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0202-happy-number](https://github.com/kumkum027/LogicLens/tree/main/0202-happy-number/) | Easy |
+| [0205-isomorphic-strings](https://github.com/kumkum027/LogicLens/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/kumkum027/LogicLens/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/kumkum027/LogicLens/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/kumkum027/LogicLens/tree/main/0349-intersection-of-two-arrays/) | Easy |
