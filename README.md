@@ -163,6 +163,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0001-two-sum](https://github.com/kumkum027/LogicLens/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kumkum027/LogicLens/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/kumkum027/LogicLens/tree/main/0027-remove-element/) | Easy |
+| [0036-valid-sudoku](https://github.com/kumkum027/LogicLens/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/kumkum027/LogicLens/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/kumkum027/LogicLens/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kumkum027/LogicLens/tree/main/0088-merge-sorted-array/) | Easy |
@@ -269,6 +270,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kumkum027/LogicLens/tree/main/0001-two-sum/) | Easy |
+| [0036-valid-sudoku](https://github.com/kumkum027/LogicLens/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/kumkum027/LogicLens/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/kumkum027/LogicLens/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0202-happy-number](https://github.com/kumkum027/LogicLens/tree/main/0202-happy-number/) | Easy |
@@ -355,4 +357,8 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kumkum027/LogicLens/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0036-valid-sudoku](https://github.com/kumkum027/LogicLens/tree/main/0036-valid-sudoku/) | Medium |
 <!---LeetCode Topics End-->
