@@ -200,6 +200,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kumkum027/LogicLens/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/kumkum027/LogicLens/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0930-binary-subarrays-with-sum](https://github.com/kumkum027/LogicLens/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/kumkum027/LogicLens/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -246,6 +247,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kumkum027/LogicLens/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/kumkum027/LogicLens/tree/main/0049-group-anagrams/) | Medium |
 | [0205-isomorphic-strings](https://github.com/kumkum027/LogicLens/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/kumkum027/LogicLens/tree/main/0242-valid-anagram/) | Easy |
@@ -285,6 +287,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kumkum027/LogicLens/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kumkum027/LogicLens/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0036-valid-sudoku](https://github.com/kumkum027/LogicLens/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/kumkum027/LogicLens/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/kumkum027/LogicLens/tree/main/0128-longest-consecutive-sequence/) | Medium |
