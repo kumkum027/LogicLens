@@ -176,6 +176,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0349-intersection-of-two-arrays](https://github.com/kumkum027/LogicLens/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumkum027/LogicLens/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/kumkum027/LogicLens/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/kumkum027/LogicLens/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/kumkum027/LogicLens/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/kumkum027/LogicLens/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/kumkum027/LogicLens/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -250,6 +251,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0189-rotate-array](https://github.com/kumkum027/LogicLens/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/kumkum027/LogicLens/tree/main/0202-happy-number/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/kumkum027/LogicLens/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/kumkum027/LogicLens/tree/main/0523-continuous-subarray-sum/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -288,6 +290,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumkum027/LogicLens/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/kumkum027/LogicLens/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/kumkum027/LogicLens/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/kumkum027/LogicLens/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/kumkum027/LogicLens/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/kumkum027/LogicLens/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kumkum027/LogicLens/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -381,7 +384,12 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/kumkum027/LogicLens/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/kumkum027/LogicLens/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/kumkum027/LogicLens/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kumkum027/LogicLens/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/kumkum027/LogicLens/tree/main/0523-continuous-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
