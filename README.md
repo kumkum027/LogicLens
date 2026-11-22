@@ -179,6 +179,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0525-contiguous-array](https://github.com/kumkum027/LogicLens/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/kumkum027/LogicLens/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/kumkum027/LogicLens/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0974-subarray-sums-divisible-by-k](https://github.com/kumkum027/LogicLens/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kumkum027/LogicLens/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/kumkum027/LogicLens/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/kumkum027/LogicLens/tree/main/1929-concatenation-of-array/) | Easy |
@@ -289,6 +290,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0451-sort-characters-by-frequency](https://github.com/kumkum027/LogicLens/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0525-contiguous-array](https://github.com/kumkum027/LogicLens/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/kumkum027/LogicLens/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/kumkum027/LogicLens/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -381,4 +383,5 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | ------- | ------- |
 | [0525-contiguous-array](https://github.com/kumkum027/LogicLens/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/kumkum027/LogicLens/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/kumkum027/LogicLens/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 <!---LeetCode Topics End-->
