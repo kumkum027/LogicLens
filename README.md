@@ -182,6 +182,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0905-sort-array-by-parity](https://github.com/kumkum027/LogicLens/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/kumkum027/LogicLens/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kumkum027/LogicLens/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1124-longest-well-performing-interval](https://github.com/kumkum027/LogicLens/tree/main/1124-longest-well-performing-interval/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kumkum027/LogicLens/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/kumkum027/LogicLens/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/kumkum027/LogicLens/tree/main/1929-concatenation-of-array/) | Easy |
@@ -297,6 +298,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0560-subarray-sum-equals-k](https://github.com/kumkum027/LogicLens/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/kumkum027/LogicLens/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kumkum027/LogicLens/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1124-longest-well-performing-interval](https://github.com/kumkum027/LogicLens/tree/main/1124-longest-well-performing-interval/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -341,6 +343,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0094-binary-tree-inorder-traversal](https://github.com/kumkum027/LogicLens/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/kumkum027/LogicLens/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/kumkum027/LogicLens/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [1124-longest-well-performing-interval](https://github.com/kumkum027/LogicLens/tree/main/1124-longest-well-performing-interval/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -392,8 +395,13 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0560-subarray-sum-equals-k](https://github.com/kumkum027/LogicLens/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/kumkum027/LogicLens/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kumkum027/LogicLens/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1124-longest-well-performing-interval](https://github.com/kumkum027/LogicLens/tree/main/1124-longest-well-performing-interval/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/kumkum027/LogicLens/tree/main/0523-continuous-subarray-sum/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1124-longest-well-performing-interval](https://github.com/kumkum027/LogicLens/tree/main/1124-longest-well-performing-interval/) | Medium |
 <!---LeetCode Topics End-->
