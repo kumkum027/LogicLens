@@ -185,6 +185,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [1124-longest-well-performing-interval](https://github.com/kumkum027/LogicLens/tree/main/1124-longest-well-performing-interval/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/kumkum027/LogicLens/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kumkum027/LogicLens/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kumkum027/LogicLens/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/kumkum027/LogicLens/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/kumkum027/LogicLens/tree/main/1929-concatenation-of-array/) | Easy |
 ## Greedy
@@ -203,6 +204,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0930-binary-subarrays-with-sum](https://github.com/kumkum027/LogicLens/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/kumkum027/LogicLens/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kumkum027/LogicLens/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kumkum027/LogicLens/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -303,11 +305,13 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0974-subarray-sums-divisible-by-k](https://github.com/kumkum027/LogicLens/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/kumkum027/LogicLens/tree/main/1124-longest-well-performing-interval/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/kumkum027/LogicLens/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kumkum027/LogicLens/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/kumkum027/LogicLens/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumkum027/LogicLens/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kumkum027/LogicLens/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -401,6 +405,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0974-subarray-sums-divisible-by-k](https://github.com/kumkum027/LogicLens/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/kumkum027/LogicLens/tree/main/1124-longest-well-performing-interval/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/kumkum027/LogicLens/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kumkum027/LogicLens/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
