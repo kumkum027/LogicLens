@@ -188,6 +188,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kumkum027/LogicLens/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/kumkum027/LogicLens/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/kumkum027/LogicLens/tree/main/1929-concatenation-of-array/) | Easy |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/kumkum027/LogicLens/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -248,6 +249,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0680-valid-palindrome-ii](https://github.com/kumkum027/LogicLens/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/kumkum027/LogicLens/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/kumkum027/LogicLens/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/kumkum027/LogicLens/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -316,6 +318,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [1124-longest-well-performing-interval](https://github.com/kumkum027/LogicLens/tree/main/1124-longest-well-performing-interval/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/kumkum027/LogicLens/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kumkum027/LogicLens/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/kumkum027/LogicLens/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
