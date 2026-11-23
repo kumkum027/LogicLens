@@ -238,6 +238,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0027-remove-element](https://github.com/kumkum027/LogicLens/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/kumkum027/LogicLens/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kumkum027/LogicLens/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/kumkum027/LogicLens/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/kumkum027/LogicLens/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/kumkum027/LogicLens/tree/main/0202-happy-number/) | Easy |
 | [0344-reverse-string](https://github.com/kumkum027/LogicLens/tree/main/0344-reverse-string/) | Easy |
@@ -249,6 +250,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kumkum027/LogicLens/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/kumkum027/LogicLens/tree/main/0049-group-anagrams/) | Medium |
+| [0125-valid-palindrome](https://github.com/kumkum027/LogicLens/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/kumkum027/LogicLens/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/kumkum027/LogicLens/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/kumkum027/LogicLens/tree/main/0290-word-pattern/) | Easy |
