@@ -183,6 +183,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0905-sort-array-by-parity](https://github.com/kumkum027/LogicLens/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/kumkum027/LogicLens/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kumkum027/LogicLens/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/kumkum027/LogicLens/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1124-longest-well-performing-interval](https://github.com/kumkum027/LogicLens/tree/main/1124-longest-well-performing-interval/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/kumkum027/LogicLens/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kumkum027/LogicLens/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
@@ -250,6 +251,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumkum027/LogicLens/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/kumkum027/LogicLens/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/kumkum027/LogicLens/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/kumkum027/LogicLens/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/kumkum027/LogicLens/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/kumkum027/LogicLens/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 ## String
@@ -286,6 +288,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumkum027/LogicLens/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/kumkum027/LogicLens/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/kumkum027/LogicLens/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/kumkum027/LogicLens/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
