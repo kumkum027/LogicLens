@@ -170,6 +170,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0088-merge-sorted-array](https://github.com/kumkum027/LogicLens/tree/main/0088-merge-sorted-array/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/kumkum027/LogicLens/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0134-gas-station](https://github.com/kumkum027/LogicLens/tree/main/0134-gas-station/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kumkum027/LogicLens/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/kumkum027/LogicLens/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/kumkum027/LogicLens/tree/main/0217-contains-duplicate/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/kumkum027/LogicLens/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -256,6 +257,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kumkum027/LogicLens/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kumkum027/LogicLens/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/kumkum027/LogicLens/tree/main/0125-valid-palindrome/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kumkum027/LogicLens/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/kumkum027/LogicLens/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/kumkum027/LogicLens/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/kumkum027/LogicLens/tree/main/0283-move-zeroes/) | Easy |
@@ -356,6 +358,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kumkum027/LogicLens/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/kumkum027/LogicLens/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumkum027/LogicLens/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kumkum027/LogicLens/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
