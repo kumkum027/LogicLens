@@ -166,6 +166,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0036-valid-sudoku](https://github.com/kumkum027/LogicLens/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/kumkum027/LogicLens/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/kumkum027/LogicLens/tree/main/0075-sort-colors/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kumkum027/LogicLens/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kumkum027/LogicLens/tree/main/0088-merge-sorted-array/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/kumkum027/LogicLens/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0134-gas-station](https://github.com/kumkum027/LogicLens/tree/main/0134-gas-station/) | Medium |
@@ -250,6 +251,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kumkum027/LogicLens/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/kumkum027/LogicLens/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/kumkum027/LogicLens/tree/main/0075-sort-colors/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kumkum027/LogicLens/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kumkum027/LogicLens/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/kumkum027/LogicLens/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/kumkum027/LogicLens/tree/main/0189-rotate-array/) | Medium |
