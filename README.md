@@ -258,6 +258,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0344-reverse-string](https://github.com/kumkum027/LogicLens/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/kumkum027/LogicLens/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumkum027/LogicLens/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0443-string-compression](https://github.com/kumkum027/LogicLens/tree/main/0443-string-compression/) | Medium |
 | [0455-assign-cookies](https://github.com/kumkum027/LogicLens/tree/main/0455-assign-cookies/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kumkum027/LogicLens/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/kumkum027/LogicLens/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -279,6 +280,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0242-valid-anagram](https://github.com/kumkum027/LogicLens/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/kumkum027/LogicLens/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/kumkum027/LogicLens/tree/main/0344-reverse-string/) | Easy |
+| [0443-string-compression](https://github.com/kumkum027/LogicLens/tree/main/0443-string-compression/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/kumkum027/LogicLens/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kumkum027/LogicLens/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/kumkum027/LogicLens/tree/main/0680-valid-palindrome-ii/) | Easy |
