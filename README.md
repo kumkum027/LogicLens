@@ -193,6 +193,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [1920-build-array-from-permutation](https://github.com/kumkum027/LogicLens/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/kumkum027/LogicLens/tree/main/1929-concatenation-of-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kumkum027/LogicLens/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2460-apply-operations-to-an-array](https://github.com/kumkum027/LogicLens/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/kumkum027/LogicLens/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -240,6 +241,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0844-backspace-string-compare](https://github.com/kumkum027/LogicLens/tree/main/0844-backspace-string-compare/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/kumkum027/LogicLens/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/kumkum027/LogicLens/tree/main/1929-concatenation-of-array/) | Easy |
+| [2460-apply-operations-to-an-array](https://github.com/kumkum027/LogicLens/tree/main/2460-apply-operations-to-an-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -262,6 +264,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0977-squares-of-a-sorted-array](https://github.com/kumkum027/LogicLens/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/kumkum027/LogicLens/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kumkum027/LogicLens/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2460-apply-operations-to-an-array](https://github.com/kumkum027/LogicLens/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/kumkum027/LogicLens/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 ## String
 | Problem Name | Difficulty |
