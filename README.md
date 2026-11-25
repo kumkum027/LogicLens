@@ -195,6 +195,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [1929-concatenation-of-array](https://github.com/kumkum027/LogicLens/tree/main/1929-concatenation-of-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kumkum027/LogicLens/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/kumkum027/LogicLens/tree/main/2109-adding-spaces-to-a-string/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/kumkum027/LogicLens/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/kumkum027/LogicLens/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/kumkum027/LogicLens/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 ## Greedy
@@ -244,6 +245,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [1920-build-array-from-permutation](https://github.com/kumkum027/LogicLens/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/kumkum027/LogicLens/tree/main/1929-concatenation-of-array/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/kumkum027/LogicLens/tree/main/2109-adding-spaces-to-a-string/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/kumkum027/LogicLens/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/kumkum027/LogicLens/tree/main/2460-apply-operations-to-an-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -270,6 +272,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [1768-merge-strings-alternately](https://github.com/kumkum027/LogicLens/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kumkum027/LogicLens/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/kumkum027/LogicLens/tree/main/2109-adding-spaces-to-a-string/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/kumkum027/LogicLens/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/kumkum027/LogicLens/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/kumkum027/LogicLens/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 ## String
