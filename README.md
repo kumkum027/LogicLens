@@ -289,6 +289,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0948-bag-of-tokens](https://github.com/kumkum027/LogicLens/tree/main/0948-bag-of-tokens/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/kumkum027/LogicLens/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kumkum027/LogicLens/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/kumkum027/LogicLens/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/kumkum027/LogicLens/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kumkum027/LogicLens/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/kumkum027/LogicLens/tree/main/2109-adding-spaces-to-a-string/) | Medium |
@@ -313,6 +314,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0680-valid-palindrome-ii](https://github.com/kumkum027/LogicLens/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/kumkum027/LogicLens/tree/main/0844-backspace-string-compare/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kumkum027/LogicLens/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/kumkum027/LogicLens/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/kumkum027/LogicLens/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kumkum027/LogicLens/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/kumkum027/LogicLens/tree/main/2109-adding-spaces-to-a-string/) | Medium |
