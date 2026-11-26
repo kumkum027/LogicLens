@@ -161,6 +161,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kumkum027/LogicLens/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/kumkum027/LogicLens/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/kumkum027/LogicLens/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kumkum027/LogicLens/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/kumkum027/LogicLens/tree/main/0027-remove-element/) | Easy |
@@ -203,6 +204,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/kumkum027/LogicLens/tree/main/0011-container-with-most-water/) | Medium |
 | [0134-gas-station](https://github.com/kumkum027/LogicLens/tree/main/0134-gas-station/) | Medium |
 | [0455-assign-cookies](https://github.com/kumkum027/LogicLens/tree/main/0455-assign-cookies/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/kumkum027/LogicLens/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -252,6 +254,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/kumkum027/LogicLens/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/kumkum027/LogicLens/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kumkum027/LogicLens/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/kumkum027/LogicLens/tree/main/0027-remove-element/) | Easy |
