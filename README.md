@@ -197,6 +197,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kumkum027/LogicLens/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/kumkum027/LogicLens/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/kumkum027/LogicLens/tree/main/1929-concatenation-of-array/) | Easy |
+| [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/kumkum027/LogicLens/tree/main/1968-array-with-elements-not-equal-to-average-of-neighbors/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kumkum027/LogicLens/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/kumkum027/LogicLens/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kumkum027/LogicLens/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -209,6 +210,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0134-gas-station](https://github.com/kumkum027/LogicLens/tree/main/0134-gas-station/) | Medium |
 | [0455-assign-cookies](https://github.com/kumkum027/LogicLens/tree/main/0455-assign-cookies/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/kumkum027/LogicLens/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/kumkum027/LogicLens/tree/main/1968-array-with-elements-not-equal-to-average-of-neighbors/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -328,6 +330,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0905-sort-array-by-parity](https://github.com/kumkum027/LogicLens/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/kumkum027/LogicLens/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kumkum027/LogicLens/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
+| [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/kumkum027/LogicLens/tree/main/1968-array-with-elements-not-equal-to-average-of-neighbors/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
