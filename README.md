@@ -261,6 +261,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [2149-rearrange-array-elements-by-sign](https://github.com/kumkum027/LogicLens/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kumkum027/LogicLens/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/kumkum027/LogicLens/tree/main/2460-apply-operations-to-an-array/) | Easy |
+| [3360-stone-removal-game](https://github.com/kumkum027/LogicLens/tree/main/3360-stone-removal-game/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -326,6 +327,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0380-insert-delete-getrandom-o1](https://github.com/kumkum027/LogicLens/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/kumkum027/LogicLens/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/kumkum027/LogicLens/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [3360-stone-removal-game](https://github.com/kumkum027/LogicLens/tree/main/3360-stone-removal-game/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
