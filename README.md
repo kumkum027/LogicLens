@@ -202,6 +202,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [2109-adding-spaces-to-a-string](https://github.com/kumkum027/LogicLens/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kumkum027/LogicLens/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/kumkum027/LogicLens/tree/main/2460-apply-operations-to-an-array/) | Easy |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/kumkum027/LogicLens/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/kumkum027/LogicLens/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -285,6 +286,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [2109-adding-spaces-to-a-string](https://github.com/kumkum027/LogicLens/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kumkum027/LogicLens/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/kumkum027/LogicLens/tree/main/2460-apply-operations-to-an-array/) | Easy |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/kumkum027/LogicLens/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/kumkum027/LogicLens/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -331,6 +333,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0977-squares-of-a-sorted-array](https://github.com/kumkum027/LogicLens/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kumkum027/LogicLens/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/kumkum027/LogicLens/tree/main/1968-array-with-elements-not-equal-to-average-of-neighbors/) | Medium |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/kumkum027/LogicLens/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -366,6 +369,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [1124-longest-well-performing-interval](https://github.com/kumkum027/LogicLens/tree/main/1124-longest-well-performing-interval/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/kumkum027/LogicLens/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kumkum027/LogicLens/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/kumkum027/LogicLens/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/kumkum027/LogicLens/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
