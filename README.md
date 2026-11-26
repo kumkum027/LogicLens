@@ -188,6 +188,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0881-boats-to-save-people](https://github.com/kumkum027/LogicLens/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/kumkum027/LogicLens/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/kumkum027/LogicLens/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0948-bag-of-tokens](https://github.com/kumkum027/LogicLens/tree/main/0948-bag-of-tokens/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kumkum027/LogicLens/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/kumkum027/LogicLens/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1124-longest-well-performing-interval](https://github.com/kumkum027/LogicLens/tree/main/1124-longest-well-performing-interval/) | Medium |
@@ -214,6 +215,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0455-assign-cookies](https://github.com/kumkum027/LogicLens/tree/main/0455-assign-cookies/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/kumkum027/LogicLens/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/kumkum027/LogicLens/tree/main/0881-boats-to-save-people/) | Medium |
+| [0948-bag-of-tokens](https://github.com/kumkum027/LogicLens/tree/main/0948-bag-of-tokens/) | Medium |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/kumkum027/LogicLens/tree/main/1968-array-with-elements-not-equal-to-average-of-neighbors/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -284,6 +286,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0844-backspace-string-compare](https://github.com/kumkum027/LogicLens/tree/main/0844-backspace-string-compare/) | Easy |
 | [0881-boats-to-save-people](https://github.com/kumkum027/LogicLens/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/kumkum027/LogicLens/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0948-bag-of-tokens](https://github.com/kumkum027/LogicLens/tree/main/0948-bag-of-tokens/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/kumkum027/LogicLens/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kumkum027/LogicLens/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/kumkum027/LogicLens/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -337,6 +340,7 @@ It is an evolving learning space built around curiosity, consistency, and the ab
 | [0455-assign-cookies](https://github.com/kumkum027/LogicLens/tree/main/0455-assign-cookies/) | Easy |
 | [0881-boats-to-save-people](https://github.com/kumkum027/LogicLens/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/kumkum027/LogicLens/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0948-bag-of-tokens](https://github.com/kumkum027/LogicLens/tree/main/0948-bag-of-tokens/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/kumkum027/LogicLens/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kumkum027/LogicLens/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/kumkum027/LogicLens/tree/main/1968-array-with-elements-not-equal-to-average-of-neighbors/) | Medium |
